@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="330" viewBox="0 0 640 330" font-family="'DotGothic16','Hiragino Kaku Gothic ProN','Hiragino Sans','Yu Gothic','MS Gothic',sans-serif">
+  <!-- メインウィンドウ -->
+  <rect x="2" y="34" width="636" height="294" rx="12" fill="#000"/>
+  <rect x="8" y="40" width="624" height="282" rx="10" fill="none" stroke="#fff" stroke-width="5"/>
+  <rect x="17" y="49" width="606" height="264" rx="7" fill="none" stroke="#fff" stroke-width="2"/>
+  <!-- タイトルウィンドウ -->
+  <rect x="28" y="2" width="164" height="56" rx="10" fill="#000"/>
+  <rect x="33" y="7" width="154" height="46" rx="8" fill="none" stroke="#fff" stroke-width="4"/>
+  <text x="110" y="38" fill="#fff" font-size="20" text-anchor="middle">つよさ</text>
+  <!-- ステータス -->
+  <g fill="#fff" font-size="20">
+    <text x="56" y="96">なまえ</text><text x="230" y="96">:Tutti</text>
+    <text x="56" y="130">しょくぎょう</text><text x="230" y="130">:フルスタックエンジニア</text>
+    <text x="56" y="164">レベル</text><text x="230" y="164">:まいにち あがっている</text>
+    <text x="56" y="198">HP</text><text x="230" y="198">:9999(てつやは しない)</text>
+    <text x="56" y="232">MP</text><text x="230" y="232">:9999(コーヒーで かいふく)</text>
+    <text x="56" y="266">とくぎ</text><text x="230" y="266">:フロントも サーバーも つくれる</text>
+    <text x="56" y="300">じょうたい</text><text x="230" y="300">:しゅうかつちゅう</text>
+  </g>
+</svg>
