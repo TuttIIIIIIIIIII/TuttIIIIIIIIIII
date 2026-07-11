@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=200&text=Tutti&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-Stack%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" alt="Tutti - Full-Stack Engineer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=TuttIIIIIIIIIII&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=TsuchiyaHaruki&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -45,21 +45,21 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuttIIIIIIIIIII&theme=nord_bright" alt="Profile Details" width="800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsuchiyaHaruki&theme=nord_bright" alt="Profile Details" width="800" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TuttIIIIIIIIIII&theme=nord_bright" alt="Top Languages" height="180" /> <img src="https://streak-stats.demolab.com?user=TuttIIIIIIIIIII&locale=ja&background=ffffff&border=bfdbfe&ring=2563eb&fire=2563eb&currStreakLabel=1d4ed8&currStreakNum=1e3a8a&sideLabels=374151&sideNums=1e3a8a&dates=6b7280&border_radius=10" alt="GitHub Streak" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsuchiyaHaruki&theme=nord_bright" alt="Top Languages" height="180" /> <img src="https://streak-stats.demolab.com?user=TsuchiyaHaruki&locale=ja&background=ffffff&border=bfdbfe&ring=2563eb&fire=2563eb&currStreakLabel=1d4ed8&currStreakNum=1e3a8a&sideLabels=374151&sideNums=1e3a8a&dates=6b7280&border_radius=10" alt="GitHub Streak" height="180" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TuttIIIIIIIIIII&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=1d4ed8&title_color=1d4ed8&hide_border=false&area=true" alt="Contribution Graph" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TsuchiyaHaruki&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=1d4ed8&title_color=1d4ed8&hide_border=false&area=true" alt="Contribution Graph" width="800" />
 
 </div>
 
 ## 📫 Contact
 
-- GitHub: [@TuttIIIIIIIIIII](https://github.com/TuttIIIIIIIIIII)
+- GitHub: [@TsuchiyaHaruki](https://github.com/TsuchiyaHaruki)
 
 <!-- ▼ 公開してよい連絡先があればコメントを外して追加してください
 - X: [@your_handle](https://x.com/your_handle)
