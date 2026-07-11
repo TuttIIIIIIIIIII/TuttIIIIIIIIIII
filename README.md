@@ -51,10 +51,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsuchiyaHaruki&theme=nord_bright" alt="Top Languages" height="180" /> <img src="https://streak-stats.demolab.com?user=TsuchiyaHaruki&locale=ja&background=ffffff&border=bfdbfe&ring=2563eb&fire=2563eb&currStreakLabel=1d4ed8&currStreakNum=1e3a8a&sideLabels=374151&sideNums=1e3a8a&dates=6b7280&border_radius=10" alt="GitHub Streak" height="180" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TsuchiyaHaruki&bg_color=ffffff&color=1e3a8a&line=3b82f6&point=1d4ed8&title_color=1d4ed8&hide_border=false&area=true" alt="Contribution Graph" width="800" />
-
 </div>
 
 ## 📫 Contact
